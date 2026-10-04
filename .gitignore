@@ -34,3 +34,5 @@ credentials.*
 # Internal docs — kept local, not published
 AGENTS.md
 ROADMAP.md
+
+repoguard-results/
